@@ -23,3 +23,13 @@
 
 
 ![portswigger-directory-traversal-lab-3-traversal sequences stripped non-recursively](https://user-images.githubusercontent.com/98345027/182301701-83fa7367-cdb4-4cc8-ac31-0e36163b661c.png)
+
+
+# LAB-05 : File path traversal, validation of start of path
+
+![portswigger-directory-traversal-lab-5-FILE-PATH-TRAVERSAL-VALIDATION-OF-START-OF-PATH](https://user-images.githubusercontent.com/98345027/182522511-528afd81-64d7-420c-80f3-1a8f81ac4492.png)
+
+# LAB-06 : File path traversal, validation of file extension with null byte bypass
+
+
+![portswigger-directory-traversal-lab-6-FILE-PATH-TRAVERSAL-VALIDATION-OF-FILE-EXTENSION-WITH-NULL-BYTE-BYPASS](https://user-images.githubusercontent.com/98345027/182522667-8ff7034f-ee61-407c-8043-58dff9f1143d.png)
