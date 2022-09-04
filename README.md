@@ -8,3 +8,4 @@
 |2   |DIRECTORY TRAVERSAL         |[LINK](https://github.com/ctflearner/Portswigger-Academy-Labs-Solved/blob/main/Directory%20Traversal/Diretory-Traversal-lab.md)|
 |3   |INFORMATION-DISCLOSURE      |[LINK](https://github.com/ctflearner/Portswigger-Academy-Labs-Solved/blob/main/Information%20Disclosure/Information-Disclosure-Lab-Solved.md)|
 |4   |FILE-UPLOAD VULNERABILITY   |[LINK](https://github.com/ctflearner/Portswigger-Academy-Labs-Solved/blob/main/File%20Upload%20Vulnerabilities/FILE-UPLOAD-VULNERABILITY.md)|
+|5   |CORS                        |[LINK](https://github.com/ctflearner/Portswigger-Academy-Labs-Solved/blob/main/CORS/CORS.md)|
